@@ -1,0 +1,10 @@
+*
+
+!/internal/
+!/internal/*
+!/internal/**
+
+!.gitignore
+!go.mod
+!go.sum
+!main.go
